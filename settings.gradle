@@ -1,0 +1,2 @@
+rootProject.name = "Tugas-Sesi-3"
+include ':app'
